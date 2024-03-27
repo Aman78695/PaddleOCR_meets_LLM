@@ -1,0 +1,19 @@
+paddlepaddle==2.4.2
+paddleocr
+Pillow
+torch
+
+accelerate
+langchain-community
+transformers
+langchain
+
+# SpeechRecognition==3.10.1
+SpeechRecognition
+pyaudio
+sounddevice
+ctransformers
+
+soundfile
+llama-cpp-python
+streamlit
